@@ -47,3 +47,13 @@ The code builds a K-means clustering model to cluster customers based on their a
 The code provides observations and insights from the clustering results:
 * Analyzes the characteristics of each cluster based on the customers' income and spending score.
 * Suggests targeted strategies for each cluster to maximize revenue and improve customer satisfaction.
+![clustering](images/cluster.PNG)
+
+### Install Packages
+```
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install seaborn
+pip install scikit-learn
+```
