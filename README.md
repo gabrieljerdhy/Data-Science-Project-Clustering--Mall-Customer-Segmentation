@@ -30,8 +30,11 @@ The code performs data cleaning operations on the dataset:
 ### Data Visualization
 The code utilizes the matplotlib and seaborn libraries to visualize the dataset:
 * Visualizes the 'Gender' column using a countplot to show the distribution of genders among customers.
+  ![gender](images/countplot.PNG)
 * Visualizes the 'Age' column using a histogram to show the distribution of ages among customers.
+  ![age](images/ageplot.PNG)
 * Visualizes the relationship between 'Age' and 'Spending Score (1-100)' using a scatterplot and jointplot.
+  ![scatter](images/scatterplot.PNG)
 
 ### Data Preprocessing
 The code performs data preprocessing tasks:
